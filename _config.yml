@@ -1,15 +1,27 @@
 title: Laís Lavra # your name (or website title) here
-
+<br>
 
 logo: "/images/laislavra.png?raw=true" # your photo (or logo) here
-
-
+<br>
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+
+My name is Laís Lavra and I am a particle physicist and data scientist from Brazil, currently living in France. 
+I have a PhD in Physics from  
+ 
+My name is Laís Lavra and I am a particle physicist and data scientist from Brazil, currently living in France. 
+I have a PhD in Physics from <a href="https://www.gov.br/cbpf/pt-br">Brazilian Center for Research in Physics</a>,
+with a thesis focused on studying differences between matter and antimatter in
+particles containing beauty and up quarks with the LHCb experiment at CERN in Switzerland.  
+
+br><br>
+
+I am former Postdoctoral Fellow from <a href="https://www.cnrs.fr/">Centre National de la Recherche Scientifique</a>, in France 
+where my research focused on searching for rare decays and commissioning the new scintillating fibre tracker for the upgrade of the LHCb experiment.
+  
+<br><br>
+My interest are flavour physics, tracking detectors and machine learning applications in particle physics.
+<br><br>
   <a href="https://www.linkedin.com/in/laislavra">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
