@@ -1,9 +1,12 @@
 title: John Doe # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  My name is Laís Lavra and I am a particle physicist and data scientist from Brazil, currently living in France. 
+  I have a PhD in Physics from <a href="https://www.gov.br/cbpf/pt-br">CBPF</a>, with a thesis focused on studying 
+  differences between matter and antimatter in particles containing beauty and up quarks with the LHCb experiment at CERN in Switzerland. 
   <br><br>
-  I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>,in France where my research focused on searching for rare decays and commissioning the new scintillating fibre tracker for the upgrade of the LHCb experiment.
+  I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, in France where my research focused on 
+  searching for rare decays and commissioning the new scintillating fibre tracker for the upgrade of the LHCb experiment.
   <br><br>
   <a href="https://www.linkedin.com/in/laislavra">View My LinkedIn Profile</a> 
   
