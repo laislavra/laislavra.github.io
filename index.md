@@ -1,5 +1,15 @@
 ## About me
 
+_High energy physicist and data scientist based in France_ <br>
+
+_I have a PhD in Particle Physics from <a href="https://www.gov.br/cbpf/pt-br">CBPF</a>, with research focused on studying 
+differences between matter and antimatter in particles containing beauty quarks with the <a href="https://lhcb-outreach.web.cern.ch/">LHCb experiment</a> at <a href="https://home.cern/">CERN</a> in Switzerland_ <br>
+  <br><br>
+_I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, in France, where my work focused on 
+  searching for rare decays and commissioning the new scintillating fibre tracker for the <a href="https://lhcb-outreach.web.cern.ch/">LHCb experiment</a>_ <br>
+
+[Email](mailto:lais.soares.lavra@gmail.com) / [LinkedIn](https://www.linkedin.com/in/laislavra)
+
 ---
 ## Languages
 
