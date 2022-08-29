@@ -18,16 +18,16 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 
 ## Education
 
-**PhD in Particle Physics** Particle data analysis for the LHCb experiment <br>
+**PhD in Particle Physics** - Particle data analysis for the LHCb experiment <br>
 [CBPF](https://www.gov.br/cbpf/pt-br) - Rio de Janeiro, Brazil _(Nov 2015 - Oct 2019)_ <br>
 
-**Doctoral Exchange** Detector R&D for the LHCb experiment <br>
+**Doctoral Exchange** - Detector R&D for the LHCb experiment <br>
 [Nikhef](https://www.nikhef.nl/) - Amsterdam, Netherlands _(April 2017 - Feb 2018)_ <br>
 
-**Master in Particle Physics** Specialiasation in high energy physics <br>
+**Master in Particle Physics** - Specialiasation in high energy physics <br>
 [CBPF](https://www.gov.br/cbpf/pt-br) - Rio de Janeiro, Brazil _(2013 - 2015)_
 
-**Bachelor in Physics** Specialiasation in nuclear astrophysics<br>
+**Bachelor in Physics** - Specialiasation in nuclear astrophysics<br>
 [UFF](https://portal.if.uff.br/) - Niteroi, Brazil _(2009-2013)_
 
 
