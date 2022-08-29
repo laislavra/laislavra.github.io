@@ -1,10 +1,11 @@
-## Portfolio
+## About me
 
 ---
-## 💬 Languages
+## Languages
 
-🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
+|:brazil:| **Portuguese**: Native <br>
+🇺🇸 **English**: Fluent <br>
+|:france:| **French**: B1/B2
 <br><br>
 
 ## 👩🏼‍🎓 Education
