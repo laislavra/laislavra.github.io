@@ -10,7 +10,7 @@
 
 ## Education
 
-**PhD in Particle Physics** Particle data analysis and detector R&D in LHCb experiment at CERN <br>
+**PhD in Particle Physics** Particle data analysis for the LHCb experiment <br>
 [CBPF](https://www.gov.br/cbpf/pt-br) - Rio de Janeiro, Brazil _(Nov 2015 - Oct 2019)_ <br>
 
 **Doctoral Exchange** Detector R&D for the LHCb experiment <br>
