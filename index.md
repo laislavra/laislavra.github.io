@@ -3,24 +3,24 @@
 ---
 ## Languages
 
-|:brazil:| **Portuguese**: Native <br>
-🇺🇸 **English**: Fluent <br>
-|:france:| **French**: B1/B2
+**Portuguese**: Native <br>
+**English**: Fluent <br>
+**French**: B1/B2
 <br><br>
 
-## 👩🏼‍🎓 Education
+## Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**PhD in Particle Physics** Particle data analysis and detector R&D in LHCb experiment at CERN <br>
+[CBPF](https://www.spiced-academy.com/) - Rio de Janeiro, Brazil _(Nov 2015 - Oct 2019)_ <br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+**Doctoral Exchange** Detector R&D for the LHCb experiment <br>
+[Nikhef](https://www.spiced-academy.com/) - Amsterdam, Netherlands _(April 2017 - Feb 2018)_ <br>
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
+**Master in Particle Physics** Specialiasation in high energy physics <br>
+[CBPF](https://www.beloit.edu/) - Rio de Janeiro, Brazil _(2013 - 2015)_
 
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Bachelor in Physics** Specialiasation in nuclear astrophysics<br>
+[American University](https://www.american.edu/) - Niteroi, Brazil _(2009-2013)_
 
 
 ### Category Name 1 
