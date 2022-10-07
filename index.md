@@ -12,6 +12,7 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 
 ### Research 
 
+# CP violation in charged charmless B decays 
 [Project 1 Title](/sample_page)
 <img src="images/Xic.gif?raw=true"/>
 
@@ -19,9 +20,6 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
