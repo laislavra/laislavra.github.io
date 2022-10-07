@@ -10,10 +10,8 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 
 ---
 ## Current and past positions
-**PhD in Particle Physics** - Particle data analysis for the LHCb experiment <br>
-[CBPF](https://www.gov.br/cbpf/pt-br) - Rio de Janeiro, Brazil _(Nov 2015 - Oct 2019)_ <br>
-**PhD in Particle Physics** - Particle data analysis for the LHCb experiment <br>
-[CBPF](https://www.gov.br/cbpf/pt-br) - Rio de Janeiro, Brazil _(Nov 2015 - Oct 2019)_ <br>
+**Postdoctoral researcher** <br>
+[Centre National de la Recherche Scientifique (CNRS)](https://www.cnrs.fr/) - Clermont-Ferrand, France _(Dec 2019 - Jun 2022)_ <br>
 
 ## Education
 
