@@ -1,6 +1,6 @@
 ## About me
 
-_High energy physicist and data scientist based in France._ <br>
+_High energy physicist based in France._ <br>
 
 _I have a PhD in Particle Physics from <a href="https://www.gov.br/cbpf/pt-br">CBPF</a>, with research focused on studying 
 differences between matter and antimatter in particles containing beauty quarks with the <a href="https://lhcb-outreach.web.cern.ch/">LHCb experiment</a> at <a href="https://home.cern/">CERN</a> in Switzerland._ <br>
@@ -20,7 +20,7 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 
 ### LHCb Upgrade
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/scifi.jpg?raw=true"/>
 
 
 ---
