@@ -9,12 +9,7 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
   searching for rare decays and commissioning the new scintillating fibre tracker for the <a href="https://lhcb-outreach.web.cern.ch/">LHCb experiment</a>._ <br>
 
 ---
-## Languages
 
-**Portuguese**: Native <br>
-**English**: Fluent <br>
-**French**: B1/B2
-<br><br>
 
 ## Education
 
@@ -29,6 +24,15 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 
 **Bachelor in Physics** - Specialiasation in nuclear astrophysics<br>
 [UFF](https://portal.if.uff.br/) - Niteroi, Brazil _(2009-2013)_
+
+---
+
+## Languages
+
+**Portuguese**: Native <br>
+**English**: Fluent <br>
+**French**: B1/B2
+<br><br>
 
 
 ### Category Name 1 
