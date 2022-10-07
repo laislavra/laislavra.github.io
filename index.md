@@ -10,13 +10,15 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 
 ---
 
-### Research 
+## Research 
 
-# CP violation in charged charmless B decays 
+### CP violation in charged charmless B decays 
 [Project 1 Title](/sample_page)
 <img src="images/Xic.gif?raw=true"/>
 
 ---
+
+### LHCb Upgrade
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
