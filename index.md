@@ -9,23 +9,11 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
   searching for rare decays and commissioning the new scintillating fibre tracker for the <a href="https://lhcb-outreach.web.cern.ch/">LHCb experiment</a>._ <br>
 
 ---
-## Publications
-**Peer-reviewed articles**
-  - LHCb Collaboration, _Direct CP violation in charmless three-body decays of B mesons_ [submitted to Phys. Rev. D](https://arxiv.org/abs/2206.07622)
-  - LHCb Collaboration, _Search for direct CP violation in charged charmless B &rarr; PV decays_ [submitted to Phys. Rev. D](https://arxiv.org/pdf/2206.02038.pdf)  
- 
-**Proceedings**
-  - L. Soares Lavra on behalf of the LHCb Collaboration, _Mixing and CPV in beauty and charm at LHCb_, [56th Rencontres de Moriond QCD](https://arxiv.org/pdf/2205.11937v2.pdf)
-  - L. Soares Lavra on behalf of the LHCb Collaboration, _Charmless b-meson and b-baryon decays at LHCb_, [The European Physical Society Conference on High Energy Physics - 2021](https://pos.sissa.it/398/522)  
-  
-**Theses**
-  - L. Soares Lavra, _CP violation studies and test of CPT symmetry in three-body charmless B decays
-at the LHCb experiment_, [PhD Thesis](https://www.cbpf.br)
-  - L. Soares Lavra, _Measurement of the relative branching fraction of charmless B decay at the LHCb experiment_, [Master's Thesis](http://cbpfindex.cbpf.br/publication_pdfs/Disserta%C3%A7%C3%A3o%20final%20-%20La%C3%ADs%20Lavra.2016_09_21_16_48_40.pdf)  
-  - L. Soares Lavra, _Quark matter equation of state_, [Bachelor's Thesis](https://github.com/laislavra/laislavra.github.io/blob/master/pdf/Monografia-Bachelor_LaisSoaresLavra.pdf)
-
-
-
+## Current and past positions
+**PhD in Particle Physics** - Particle data analysis for the LHCb experiment <br>
+[CBPF](https://www.gov.br/cbpf/pt-br) - Rio de Janeiro, Brazil _(Nov 2015 - Oct 2019)_ <br>
+**PhD in Particle Physics** - Particle data analysis for the LHCb experiment <br>
+[CBPF](https://www.gov.br/cbpf/pt-br) - Rio de Janeiro, Brazil _(Nov 2015 - Oct 2019)_ <br>
 
 ## Education
 
@@ -46,7 +34,20 @@ at the LHCb experiment_, [PhD Thesis](https://www.cbpf.br)
 **Portuguese**: Native <br>
 **English**: Fluent <br>
 **French**: B1/B2
-<br><br>
+
+## Publications
+**Peer-reviewed articles**<br>
+  - LHCb Collaboration, _Direct CP violation in charmless three-body decays of B mesons_ [submitted to Phys. Rev. D](https://arxiv.org/abs/2206.07622)
+  - LHCb Collaboration, _Search for direct CP violation in charged charmless B &rarr; PV decays_ [submitted to Phys. Rev. D](https://arxiv.org/pdf/2206.02038.pdf)  <br>
+**Proceedings** <br>
+  - L. Soares Lavra on behalf of the LHCb Collaboration, _Mixing and CPV in beauty and charm at LHCb_, [56th Rencontres de Moriond QCD](https://arxiv.org/pdf/2205.11937v2.pdf)
+  - L. Soares Lavra on behalf of the LHCb Collaboration, _Charmless b-meson and b-baryon decays at LHCb_, [The European Physical Society Conference on High Energy Physics - 2021](https://pos.sissa.it/398/522)  <br>
+**Theses** <br>
+  - L. Soares Lavra, _CP violation studies and test of CPT symmetry in three-body charmless B decays
+at the LHCb experiment_, [PhD Thesis](https://www.cbpf.br)
+  - L. Soares Lavra, _Measurement of the relative branching fraction of charmless B decay at the LHCb experiment_, [Master's Thesis](http://cbpfindex.cbpf.br/publication_pdfs/Disserta%C3%A7%C3%A3o%20final%20-%20La%C3%ADs%20Lavra.2016_09_21_16_48_40.pdf)  
+  - L. Soares Lavra, _Quark matter equation of state_, [Bachelor's Thesis](https://github.com/laislavra/laislavra.github.io/blob/master/pdf/Monografia-Bachelor_LaisSoaresLavra.pdf)
+
 
 
 ### Category Name 1 
