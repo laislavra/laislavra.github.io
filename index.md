@@ -12,12 +12,12 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 ## Publications
 **Peer-reviewed articles**
   - LHCb Collaboration, _Direct CP violation in charmless three-body decays of B mesons_ [submitted to Phys. Rev. D](https://arxiv.org/abs/2206.07622)
-  - LHCb Collaboration, _Search for direct CP violation in charged charmless B &rarr; PV decays_ [submitted to Phys. Rev. D](https://arxiv.org/pdf/2206.02038.pdf)
-  
+  - LHCb Collaboration, _Search for direct CP violation in charged charmless B &rarr; PV decays_ [submitted to Phys. Rev. D](https://arxiv.org/pdf/2206.02038.pdf)  
+ 
 **Proceedings**
   - L. Soares Lavra on behalf of the LHCb Collaboration, _Mixing and CPV in beauty and charm at LHCb_, [56th Rencontres de Moriond QCD](https://arxiv.org/pdf/2205.11937v2.pdf)
-  - L. Soares Lavra on behalf of the LHCb Collaboration, _Charmless b-meson and b-baryon decays at LHCb_, [The European Physical Society Conference on High Energy Physics - 2021](https://pos.sissa.it/398/522)
-
+  - L. Soares Lavra on behalf of the LHCb Collaboration, _Charmless b-meson and b-baryon decays at LHCb_, [The European Physical Society Conference on High Energy Physics - 2021](https://pos.sissa.it/398/522)  
+  
 **Theses**
   - L. Soares Lavra, _CP violation studies and test of CPT symmetry in three-body charmless B decays
 at the LHCb experiment_, [PhD Thesis](https://www.cbpf.br)
