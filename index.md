@@ -9,6 +9,23 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
   searching for rare decays and commissioning the new scintillating fibre tracker for the <a href="https://lhcb-outreach.web.cern.ch/">LHCb experiment</a>._ <br>
 
 ---
+
+### Research 
+
+[Project 1 Title](/sample_page)
+<img src="images/Xic.gif?raw=true"/>
+
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+
 ## Current and past positions
 **Postdoctoral researcher** <br>
 [Centre National de la Recherche Scientifique (CNRS)](https://www.cnrs.fr/) - Clermont-Ferrand, France _(Dec 2019 - Jun 2022)_ <br>
@@ -31,7 +48,7 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 
 **Portuguese**: Native <br>
 **English**: Fluent <br>
-**French**: B1/B2
+**French**: Intermediate (B1/B2)
 
 ## Publications
 **Peer-reviewed articles**<br>
@@ -48,22 +65,9 @@ at the LHCb experiment_, [PhD Thesis](https://www.cbpf.br)
   - L. Soares Lavra, _Measurement of the relative branching fraction of charmless B decay at the LHCb experiment_, [Master's Thesis](http://cbpfindex.cbpf.br/publication_pdfs/Disserta%C3%A7%C3%A3o%20final%20-%20La%C3%ADs%20Lavra.2016_09_21_16_48_40.pdf)  
   - L. Soares Lavra, _Quark matter equation of state_, [Bachelor's Thesis](https://github.com/laislavra/laislavra.github.io/blob/master/pdf/Monografia-Bachelor_LaisSoaresLavra.pdf)
 
-
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/Xic.gif?raw=true"/>
-
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Category Name 2
 
