@@ -1,5 +1,5 @@
 title: Laís Soares Lavra # your name (or website title) here
-logo: <img src="/images/Image-github.png" height="60" width="60">
+logo: "/images/Image-github.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Hi, I am Laís, a high energy physicist from Brazil! 
