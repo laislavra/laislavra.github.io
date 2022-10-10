@@ -10,20 +10,7 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 
 ---
 
-## Research 
 
-### CP violation in charged charmless B decays 
-[Project 1 Title](/sample_page)
-<img src="images/Xic.gif?raw=true"/>
-
----
-
-### LHCb Upgrade
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/scifi.jpg?raw=true"/>
-
-
----
 
 
 ## Current and past positions
@@ -38,10 +25,10 @@ _I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, i
 **Doctoral Exchange** - Detector R&D for the LHCb experiment <br>
 [Nikhef](https://www.nikhef.nl/) - Amsterdam, Netherlands _(April 2017 - Feb 2018)_ <br>
 
-**Master in Particle Physics** - Specialiasation in high energy physics <br>
+**Master in Particle Physics** - Specialisation in high energy physics <br>
 [CBPF](https://www.gov.br/cbpf/pt-br) - Rio de Janeiro, Brazil _(2013 - 2015)_
 
-**Bachelor in Physics** - Specialiasation in nuclear astrophysics<br>
+**Bachelor in Physics** - Specialisation in nuclear astrophysics<br>
 [UFF](https://portal.if.uff.br/) - Niteroi, Brazil _(2009-2013)_
 
 ## Languages
@@ -67,21 +54,3 @@ at the LHCb experiment_, [PhD Thesis](https://www.cbpf.br)
 
 ---
 
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
