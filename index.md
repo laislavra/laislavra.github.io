@@ -12,7 +12,7 @@ differences between matter and antimatter in particles containing beauty quarks 
 
 ## Current and past positions
 **Postdoctoral Researcher** - Research focused on searching for rare radiative _B_ decays and commissioning of the scintillating fibre tracker (SciFi detector) for the LHCb experiment <br>
-[Centre National de la Recherche Scientifique (CNRS)](https://www.cnrs.fr/) - Clermont-Ferrand, France _(Dec 2019 - Jun 2022)_ <br>
+[CNRS](https://www.cnrs.fr/) - Clermont-Ferrand, France _(Dec 2019 - Jun 2022)_ <br>
 
 ## Education
 
