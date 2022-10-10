@@ -2,19 +2,16 @@
 
 _High energy physicist based in France._ <br>
 
+_My research interests are flavour physics, particle tracking detectors and machine learning applications in particle physics._
+  <br>
+
 _I have a PhD in Particle Physics from <a href="https://www.gov.br/cbpf/pt-br">CBPF</a>, with research focused on studying 
 differences between matter and antimatter in particles containing beauty quarks with the <a href="https://lhcb-outreach.web.cern.ch/">LHCb experiment</a> at <a href="https://home.cern/">CERN</a> in Switzerland._ <br>
 
-_I am a former Postdoctoral Fellow at <a href="https://www.cnrs.fr/">CNRS</a>, in France, where my work focused on 
-  searching for rare decays and commissioning the new scintillating fibre tracker for the <a href="https://lhcb-outreach.web.cern.ch/">LHCb experiment</a>._ <br>
-
 ---
 
-
-
-
 ## Current and past positions
-**Postdoctoral researcher** <br>
+**Postdoctoral Researcher** - Research focused on searching for rare radiative B decays and assembly/commissioning the new scintillating fibre tracker for the LHCb experiment <br>
 [Centre National de la Recherche Scientifique (CNRS)](https://www.cnrs.fr/) - Clermont-Ferrand, France _(Dec 2019 - Jun 2022)_ <br>
 
 ## Education
