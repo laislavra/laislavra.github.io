@@ -51,3 +51,6 @@ at the LHCb experiment_, [PhD Thesis](https://www.cbpf.br)
 
 ---
 
+## Tutorials
+For coding tutorials and resources, visit the [Tutorials Page](tutorials.md).
+
